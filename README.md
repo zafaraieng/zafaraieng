@@ -53,9 +53,8 @@ Git · Docker fundamentals · Vite · Mongoose · Hugging Face ecosystem
 
 ### Contact & Links
 - GitHub: [zafaraieng](https://github.com/zafaraieng)
-- Professional email: *add your preferred contact email here*
-- LinkedIn: *add your LinkedIn URL here*
-- Portfolio: *add your portfolio URL here*
+- Email: zafarullaharshad2@gmail.com
+- LinkedIn: https://linkedin.com/in/zafar-ullahv
 
 ---
 
